@@ -24,3 +24,4 @@ $plugin->requires = 2010112400;   // Requires this Moodle version - at least 2.0
 $plugin->cron     = 0;
 $plugin->release = '0.1 (Build: 20130408)';
 $plugin->maturity = MATURITY_STABLE;
+$plugin->component = 'local_userinfo';
